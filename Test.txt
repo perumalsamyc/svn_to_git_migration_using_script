@@ -1,2 +1,3 @@
 New content
 extra lines has been added
+Line3 has been added
